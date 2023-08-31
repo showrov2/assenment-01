@@ -1,2 +1,2 @@
-# assenment-01
+# assignment-01
 Web Design class01
